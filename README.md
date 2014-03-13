@@ -1,5 +1,4 @@
 #Windows-AHK-SwitchProxy
-====================
 
 Windows下快速切换IE(系统)代理的工具，被[小众软件](http://www.appinn.com)所[发布](http://www.appinn.com/ahk-dary-ie-pr/)
 
